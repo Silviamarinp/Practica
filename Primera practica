@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Página de Bienvenida</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>¡Hola, mundo desde GitHub!</h1>
+    <p>Bienvenido a mi página web personal</p>
+  </header>
+
+  <main>
+    <section class="presentacion">
+      <img src="https://via.placeholder.com/150" alt="Foto de perfil">
+      <h2>Silvia</h2>
+      <p>Soy estudiante de desarrollo web. Me encanta aprender cosas nuevas, programar y diseñar sitios bonitos y funcionales.</p>
+    </section>
+
+    <section class="contacto">
+      <h3>Contacto</h3>
+      <ul>
+        <li>Email: <a href="mailto:silvia@example.com">silvia@example.com</a></li>
+        <li>GitHub: <a href="https://github.com/">github.com/miusuario</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Silvia. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>
